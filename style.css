@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+}
+
+.header_div{
+    background: rgb(183, 245, 255);
+    color:rgb(255, 253, 121);
+}
+
+.header_div p{
+    font-family: "Comic Neue", cursive;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.copy_right_footer{
+    background-color: rgb(184, 255, 231);
+    font-family: "Coming Soon", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
